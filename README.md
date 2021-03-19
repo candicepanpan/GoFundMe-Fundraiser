@@ -3,7 +3,7 @@ Hello,
 In this README.txt, readers will be able to find the structure of this directory and how to reproduce the results. 
 
 
-Team1_Web Analytics Final Project_GoFundMe
+#Team1_Web Analytics Final Project_GoFundMe
 	-> Codes
 		-> Scrape_GoFundMe_For_Urls.ipynb
 		-> Scrape_Fundraisers.ipynb
