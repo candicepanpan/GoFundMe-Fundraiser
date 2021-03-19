@@ -4,20 +4,6 @@ In this README.txt, readers will be able to find the structure of this directory
 
 
 #Team1_Web Analytics Final Project_GoFundMe
-	-> Codes
-		-> Scrape_GoFundMe_For_Urls.ipynb
-		-> Scrape_Fundraisers.ipynb
-		-> Scrape_Fundraisers_2.ipynb
-		-> Modeling.R
-	-> File Directory
-		-> GoFundMe_Urls.csv
-		-> Data_Original.csv
-		-> CleanedData_Final.csv
-	-> Reports
-		-> Team1_GoFundMe_Presentation.pdf
-		-> Team1_GoFundMe_Video.mp4
-		-> Team1_GoFundMe_Report.pdf
-		
 
 Within the Codes folder, readers can find:
 - Scrape_GoFundMe_For_Urls.ipynb: scrape the urls for all fundraisers' websites 
